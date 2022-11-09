@@ -1,2 +1,2 @@
-# mithoo.github.io
+# mithoo
 Rapid rabid application development
